@@ -1,3 +1,3 @@
-module github.com/fabianbrash/go-rest-api
+module github.com/fabianbrash/go-tbs-api
 
 go 1.19
